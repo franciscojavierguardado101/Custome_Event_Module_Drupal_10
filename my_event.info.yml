@@ -1,0 +1,6 @@
+name: My Event Module
+description: "Provides a custom content type for events."
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+autoload:
+  path: src
